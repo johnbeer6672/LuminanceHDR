@@ -2,6 +2,10 @@
 // HDR_Sharpen_Engine_Core.js — Backend Processing Engine
 // ============================================================================
 
+#feature-id    Utilities > HDRSharpenEngine
+#feature-info  A backend processing engine for unrolled HDR levels and multiscale sharpening.
+#feature-menu  Utilities > HDR Sharpen Engine Core
+
 function RunEnginePipeline(wHdr, mmt3, mmt4, usmS, usmA, wSharp, wOrig) {
     var activeWin = ImageWindow.activeWindow;
     if (activeWin.isNull) {
