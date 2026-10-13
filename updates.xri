@@ -4,7 +4,7 @@
       <p>My Custom PixInsight Scripts Repository</p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package href="https://raw.githubusercontent.com/johnbeer6672/LuminanceHDR" version="1.0.0" date="2026-10-12">
+      <package fileName="LuminanceHDR_v1.0.0.zip" sha1="48F636630FC374FF5B3CBE0F8AF57F49394E6781" type="script" releaseDate="20261012">
          <title>LuminanceHDR</title>
          <description>
             <p>A script for PixInsight that allows you to extract a synthetic luminance, and add HDR and sharpening effects to it.</p>
