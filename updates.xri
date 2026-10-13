@@ -3,7 +3,7 @@
    <description>
       <p>My Custom PixInsight Scripts Repository</p>
    </description>
-   <platform os="linux" arch="x64" version="1.8.9:1.9.9">
+   <platform os="all" arch="noarch" version="1.8.9:1.9.9">
       <package href="https://raw.githubusercontent.com/johnbeer6672/LuminanceHDR" version="1.0.0" date="2026-10-12">
          <title>LuminanceHDR</title>
          <description>
