@@ -1,6 +1,10 @@
 // ============================================================================
 // HDR-Sharp-lum-ui.js — Pure Graphical Front-End Dashboard Shell
 // ============================================================================
+#feature-id    Utilities > HDRSharpenSuite
+#feature-info  An advanced graphical interface to adjust configurations and generate custom dynamic micro-contrast blend profiles.
+#feature-menu  Utilities
+
 #include <pjsr/DataType.jsh>
 #include <pjsr/StdButton.jsh>
 #include <pjsr/FrameStyle.jsh>
