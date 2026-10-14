@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>My Custom PixInsight Scripts Repository</p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9:1.9.9">
+      <package fileName="HDR-Sharp-lum-ui.zip" sha1="957d6b42b8d6f0ace66ee7fe0637eea5f0115526" type="script" releaseDate="20261012">
+         <title>LuminanceHDR</title>
+         <description>
+            <p>A script for PixInsight that allows you to extract a synthetic luminance, and add HDR and sharpening effects to it.</p>
+         </description>
+      </package>
+   </platform>
+</xri>
