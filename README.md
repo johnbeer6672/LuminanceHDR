@@ -32,35 +32,8 @@ The original baseline mix is the amount of the HDR is present in the final image
 Once you have chosen your parameters you can press the execute process button to start the script, or close control panel to exit the script.
 The program will run and create a series of files, these are used to blend the above options and once it has created the lumfinal it will delete extraneous files, leaving the one lumfinal image and your original colour image.
 To apply this to your image simply use the LRGB process and drag it to your image 
+
  
 
-Example image processed with this script
-
-
-
-Before
- 
-
-
-
-
-
-
-
-
-
-
-After
- 
-
-Conclusion
-This is my first script and has taken a while for me to get it running smoothly. It is something that I will be releasing more widespread, You, as members of the Swansea Astronomical Society get an early peak and you are also my Guinea pigs………...
-I would ask the following 
-1.	That you please let me know if you come across any errors.
-2.	When there is a PixInsight update, if the script does not function properly, please bear with me as I will update it as soon as I can. 
-3.	Once I have made sure that the script runs smoothly and I have sorted out the online repository I will be releasing it more widely. I would ask that no-one shares the file with non-SAS members.
-4.	The script is copyrighted to John Beer no distribution without notice.
-I hope that you enjoy using this script, feedback is welcomed.
-Please share the images you have used this with so I can see how it is performing.
 
 John Beer.
